@@ -1,0 +1,16 @@
+{
+  "docs": [
+     {
+       "name": "Backbone",
+        "url": "http://backbonejs.org"
+     },
+    { 
+      "name": "Underscore",
+      "url": "http://underscorejs.org"
+    },
+    {
+      "name": "Marionette",
+      "url": "http://marionettejs.com/"
+    }
+  ]
+}
